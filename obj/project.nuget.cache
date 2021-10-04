@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CqskoyarhL45mJssPvs1vk9qa1VGJvwLNi4mjV+AomHoaP8ZOuVPzLs4EFh1Yl2SzQnbsbv2h1+6UvnTmPGQ/w==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\ITI Training\\EF & LINQ\\Repository Pattern\\RepositoryPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sadek\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

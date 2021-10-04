@@ -1,0 +1,26 @@
+D:\Study\ITI Training\EF & LINQ\EF-UsingLinq\bin\Debug\RepositoryPattern.exe.config
+D:\Study\ITI Training\EF & LINQ\EF-UsingLinq\bin\Debug\RepositoryPattern.exe
+D:\Study\ITI Training\EF & LINQ\EF-UsingLinq\bin\Debug\RepositoryPattern.pdb
+D:\Study\ITI Training\EF & LINQ\EF-UsingLinq\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\ITI Training\EF & LINQ\EF-UsingLinq\bin\Debug\EntityFramework.dll
+D:\Study\ITI Training\EF & LINQ\EF-UsingLinq\obj\Debug\RepositoryPattern.csproj.CoreCompileInputs.cache
+D:\Study\ITI Training\EF & LINQ\EF-UsingLinq\obj\Debug\RepositoryPattern.csproj.CopyComplete
+D:\Study\ITI Training\EF & LINQ\EF-UsingLinq\obj\Debug\RepositoryPattern.exe
+D:\Study\ITI Training\EF & LINQ\EF-UsingLinq\obj\Debug\RepositoryPattern.pdb
+D:\Study\ITI Training\EF & LINQ\EF-UsingLinq\obj\Debug\RepositoryPattern.csprojAssemblyReference.cache
+D:\Study\ITI Training\EF & LINQ\EF-UsingLinq\obj\Debug\RepositoryPattern.Migrations.InitialMigration.resources
+D:\Study\ITI Training\EF & LINQ\EF-UsingLinq\obj\Debug\RepositoryPattern.csproj.GenerateResource.cache
+D:\Study\ITI Training\EF & LINQ\EF-UsingLinq\obj\Debug\RepositoryPattern.Migrations.EntityConfigurations.resources
+D:\Study\ITI Training\EF & LINQ\Repository Pattern\bin\Debug\RepositoryPattern.exe.config
+D:\Study\ITI Training\EF & LINQ\Repository Pattern\bin\Debug\RepositoryPattern.exe
+D:\Study\ITI Training\EF & LINQ\Repository Pattern\bin\Debug\RepositoryPattern.pdb
+D:\Study\ITI Training\EF & LINQ\Repository Pattern\bin\Debug\EntityFramework.SqlServer.dll
+D:\Study\ITI Training\EF & LINQ\Repository Pattern\bin\Debug\EntityFramework.dll
+D:\Study\ITI Training\EF & LINQ\Repository Pattern\obj\Debug\RepositoryPattern.csprojAssemblyReference.cache
+D:\Study\ITI Training\EF & LINQ\Repository Pattern\obj\Debug\RepositoryPattern.Migrations.InitialMigration.resources
+D:\Study\ITI Training\EF & LINQ\Repository Pattern\obj\Debug\RepositoryPattern.Migrations.EntityConfigurations.resources
+D:\Study\ITI Training\EF & LINQ\Repository Pattern\obj\Debug\RepositoryPattern.csproj.GenerateResource.cache
+D:\Study\ITI Training\EF & LINQ\Repository Pattern\obj\Debug\RepositoryPattern.csproj.CoreCompileInputs.cache
+D:\Study\ITI Training\EF & LINQ\Repository Pattern\obj\Debug\RepositoryPattern.csproj.CopyComplete
+D:\Study\ITI Training\EF & LINQ\Repository Pattern\obj\Debug\RepositoryPattern.exe
+D:\Study\ITI Training\EF & LINQ\Repository Pattern\obj\Debug\RepositoryPattern.pdb
